@@ -58,6 +58,10 @@
 
 			}
 
+			button:hover{
+				color: red;
+			}
+
 			.span-two{
 				width: 120px;
 				border-radius: 42;
